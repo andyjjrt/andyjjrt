@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I am Andy 
 
-<!--
-**andyjjrt/andyjjrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats-jrzz.vercel.app/api?username=andyjjrt&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
-Here are some ideas to get you started:
+A student, full stack developer from Taiwan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My site：[andyjjrt.cc](https://andyjjrt.cc)
+* Free chance: [Click me!](https://free-getcha.andyjjrt.cc)
+
+Current active projects
+
+* OpenNCCU-SCSR (close source)
+* OpenNCCU-app (close source)
+* [bootstrap-ojFE](https://github.com/andyjjrt/bootstrap-ojFE) (planned to refactor)
+* [NCCUCource](https://github.com/andyjjrt/NCCUCourse)
+
+Leave a star⭐ if u like my repos~~
