@@ -9,9 +9,10 @@ A student, full stack developer from Taiwan
 
 Current active projects
 
+* [ojFE](https://github.com/andyjjrt/ojFE)
+* [dcbot](https://github.com/andyjjrt/dcbot)
+* [NCCUCource](https://github.com/andyjjrt/NCCUCourse)
 * OpenNCCU-SCSR (close source)
 * OpenNCCU-app (close source)
-* [bootstrap-ojFE](https://github.com/andyjjrt/bootstrap-ojFE) (planned to refactor)
-* [NCCUCource](https://github.com/andyjjrt/NCCUCourse)
 
 Leave a star⭐ if u like my repos~~
