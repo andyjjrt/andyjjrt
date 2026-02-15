@@ -1,6 +1,6 @@
 ### Hi, I am Andy 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=andyjjrt&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+<img align="right" src="./profile/stats.svg"/>
 
 A student, full stack developer from Taiwan
 
@@ -9,10 +9,6 @@ A student, full stack developer from Taiwan
 
 Current active projects
 
-* [ojFE](https://github.com/andyjjrt/ojFE)
-* [dcbot](https://github.com/andyjjrt/dcbot)
-* [NCCUCource](https://github.com/andyjjrt/NCCUCourse)
-* OpenNCCU-SCSR (close source)
-* OpenNCCU-app (close source)
+* [rosetta](https://github.com/andyjjrt/rosetta)
 
 Leave a star⭐ if u like my repos~~
