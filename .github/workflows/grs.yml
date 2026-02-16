@@ -18,6 +18,14 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=transparent&layout=compact&card_width=400px&hide=html,Lua,C,c%2B%2B&hide_border=true
+          path: profile/language.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
